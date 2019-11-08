@@ -5,5 +5,6 @@ Machine learning with emphasis on Deep Learning introductory hands-on class. The
 
 Syllabus:
 - [Introduction to Python 3](JNotebooks/tutorial-python.ipynb)
-- [Introduction to NumPy](tutorial-numpy.ipynb)
+- [Introduction to NumPy](JNotebooks/tutorial-numpy.ipynb)
+
 ...
