@@ -3,11 +3,14 @@
 Machine learning with emphasis on Deep Learning introductory hands-on class. The examples are in Python 3 and Tensorflow 2.0.
 
 
-Syllabus:
-- [Introduction to Python 3](JNotebooks/tutorial01-python.ipynb)
-- [Introduction to NumPy](JNotebooks/tutorial02-numpy.ipynb)
-- [Introduction to Overfitting and Regularization with a polynomial curve fitting example](JNotebooks/tutorial02-numpy.ipynb)
-- [Magnetic Resonance Image Vendor and Magnetic Field Classification](JNotebooks/tutorial04-magnetic_field_scanner_vendor_classification.ipynb)
-- Denoising
-	- [Creating noise corrupted 1D dataset](JNotebooks/create_noise_corrupted_dataset.ipynb)
-	- [Training a CNN to denoise the data](JNotebooks/denoise_cnn.ipynb)
+## Turorials
+
+
+- **Tutorial 00**: [Installing a Virtual Environment](install_venv.ipynb) - Not available. Under construction.
+- **Tutorial 01**: [Introduction to Python](tutorial01-python.ipynb)
+- **Tutorial 02** [Introduction to NumPy](tutorial02-numpy.ipynb)
+- **Tutorial 03**: [Overfitting and Regularization](tutorial03-overfitting_regularization.ipynb)
+- **Tutorial 04** [One-layer Fully Connected Neural Network - classification](tutorial04_one_layer_neural_network.ipynb)
+- **Tutorial 05**: [Multi-layer Fully Connected Neural Network - classification](tutorial05_multi_layer_neural_network.ipynb)
+- **Tutorial 06**: [Convolutional Neural Network - classification](tutorial06_magnetic_field_scanner_vendor_classification.ipynb)
+- **Tutorial 07**: [Fully Convolutional Neural Network - regression](tutorial07_fully_convolutional_neural_network.ipynb)
